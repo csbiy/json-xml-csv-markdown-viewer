@@ -1,6 +1,3 @@
-# Claude Code
-.claude/
-
 # Miscellaneous
 *.class
 *.log
@@ -50,5 +47,6 @@ android/key.properties
 android/app/keystore/
 *.jks
 *.keystore
-CLAUDE.md
-TODO_LIST.md
+
+# Local files
+*.local.md
